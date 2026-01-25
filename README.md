@@ -18,6 +18,12 @@
   alt="developer"
 />
 
+<br/>
+
+<img 
+  src="https://komarev.com/ghpvc/?username=ruthikt&label=Profile%20Views&color=0d1117&style=flat-square"
+/>
+
 </div>
 
 <hr/>
