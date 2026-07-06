@@ -44,33 +44,32 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <!-- Programming / DSA -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
+
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
 
   <!-- Backend / APIs -->
+  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="42" height="42"/>
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" width="42" height="42"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42" height="42"/>
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="42" height="42"/>
+  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
 
-  <!-- Data & Visualization -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="42" height="42"/>
+  <!-- Data Visualization -->
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="42" height="42"/>
 
   <!-- UI / UX -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42"/>
+  <!-- Version Control -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="42" height="42"/>
 
-  <!-- Tools -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42"/>
 </p>
-
 
 ---
 
