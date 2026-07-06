@@ -42,25 +42,35 @@
 ---
 
 ## 🛠️ Skills & Tools
+
 <p align="center">
   <!-- Programming / DSA -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
 
+  <!-- Backend / APIs -->
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42" height="42"/>
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="42" height="42"/>
+
   <!-- Data & Visualization -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="42" height="42"/>
 
   <!-- UI / UX -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42"/>
 
   <!-- Tools -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42"/>
 </p>
+
 
 ---
 
